@@ -1,4 +1,5 @@
 ## Hi there 👋
+챗봇,컴퓨터비전
 
 <!--
 **aplaco/aplaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
